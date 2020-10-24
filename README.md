@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetberkinc" alt="ahmetberkinc" /> </p>
 
-- 🔭 I’m currently working on **ExoPlayer**
+- 🔭 I’m currently working on **ExoPlayer, React, ReactNative**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, React Native**
 
 - 💬 Ask me about **ExoPlayer**
 
