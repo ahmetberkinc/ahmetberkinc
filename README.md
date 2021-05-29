@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetberkinc" alt="ahmetberkinc" /> </p>
 
-- 🔭 I’m currently working on **ExoPlayer, React, ReactNative**
+- 🔭 I’m currently working on **React Native, React Native Video, ExoPlayer**
 
-- 🌱 I’m currently learning **Kotlin, React Native**
+- 🌱 I’m currently learning **React, React Native**
 
-- 💬 Ask me about **ExoPlayer**
+- 💬 Ask me about **React Native, ExoPlayer**
 
 - 📫 How to reach me **ahmetberkincoglu@gmail.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> <img
+src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" /> <img
+src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java"/>  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetberkinc&layout=compact&hide=html" alt="ahmetberkinc" /></p>
 
