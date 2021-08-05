@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Berk</h1>
-<h3 align="center">Android Developer from Turkey</h3>
+<h3 align="center">React Native Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetberkinc" alt="ahmetberkinc" /> </p>
 
