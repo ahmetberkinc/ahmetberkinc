@@ -31,8 +31,6 @@
 - **Albert Health** – healthcare app with dynamic notifications, analytics integration and custom UI components
 - **Medisa** – health insurance app for iOS & Android
 - **Tivibu GO** – live TV & OTT streaming app; led the mobile team, built video playback (ExoPlayer) and IMA video ads
-- **[react-native-ssdp-remote](https://github.com/ahmetberkinc/react-native-ssdp-remote)** – SSDP device discovery for a React Native mobile remote controller
-- **[react-native-video ads fix](https://github.com/olgunkaya/react-native-video-inc-ads/pull/2)** – fixed Android fullscreen play/pause in a react-native-video IMA ads fork
 
 ---
 
