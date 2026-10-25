@@ -25,6 +25,17 @@
 
 ---
 
+### 🏗️ What I've Built
+- **Paribu** – the crypto exchange app for iOS & Android, built with React Native
+- **Aksigorta** – insurance mobile app for iOS & Android
+- **Albert Health** – healthcare app with dynamic notifications, analytics integration and custom UI components
+- **Medisa** – health insurance app for iOS & Android
+- **Tivibu GO** – live TV & OTT streaming app; led the mobile team, built video playback (ExoPlayer) and IMA video ads
+- **[react-native-ssdp-remote](https://github.com/ahmetberkinc/react-native-ssdp-remote)** – SSDP device discovery for a React Native mobile remote controller
+- **[react-native-video ads fix](https://github.com/olgunkaya/react-native-video-inc-ads/pull/2)** – fixed Android fullscreen play/pause in a react-native-video IMA ads fork
+
+---
+
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React Native" height="50" />
@@ -64,7 +75,6 @@
 - Shipped apps across **fintech/crypto, insurance, healthcare and OTT streaming**
 - Led a mobile team at Saat Teknoloji on the **Tivibu GO** live TV & streaming app
 - Experienced with notification systems, analytics integration, CI/CD and custom UI components
-- Active contributor to the **React Native** ecosystem
 
 ---
 
